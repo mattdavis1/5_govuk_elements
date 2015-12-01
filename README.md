@@ -1,7 +1,7 @@
 GOV.UK elements
 ===============
 
-## What is it?
+## Matt Davis: who is he?
 
 GOV.UK elements is two things:
 
