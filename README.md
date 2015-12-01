@@ -3,7 +3,7 @@ GOV.UK elements
 
 ## What is it?
 
-GOV.UK elements is two things:
+Matt Davis's GOV.UK elements is two things:
 
 1. an online design guide, explaining how to make your service look consistent with the rest of GOV.UK
 2. an example of how to use the code in the [GOV.UK template](https://github.com/alphagov/govuk_template) and the [GOV.UK front end toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
